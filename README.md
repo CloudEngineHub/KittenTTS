@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/d80120f2-c751-407e-a166-068dd1dd9e8d
 ### Installation
 
 ```
-pip install https://github.com/KittenML/KittenTTS/releases/download/0.8/kittentts-0.8.0-py3-none-any.whl
+pip install https://github.com/KittenML/KittenTTS/releases/download/0.8.1/kittentts-0.8.1-py3-none-any.whl
 ```
 
 
